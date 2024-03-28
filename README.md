@@ -25,11 +25,14 @@ Dashboard is a tool for Automatic Generation of Visualizations and Infographics 
 │   ├── user_data # templates
 ├── infra # infra related code
 ├── lida # proprt engg and execution
-├── llmx # connecting with DeereAI
+├── llmx
 ├── pages # HTML pages for each application
 ├── README.md
 ├── scr # source code for application
+├── home
+├── app
 └── .gitignore
+
 ```  
 
 
@@ -50,11 +53,11 @@ Install from pypi.
 
 #### create enviroment
 ```bash
-conda create -n .venv python=3.9.18
+conda create -n .venv python=3.9.18 or python -m venv .venv
 ```
 #### Activate enviroment
 ```bash
-conda activate .venv
+conda activate .venv or cd .venv, cd Scripts, ./activate
 ```
 #### Install requirements
 ```bash
