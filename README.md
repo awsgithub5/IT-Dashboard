@@ -1,9 +1,9 @@
 
 
 
-#GenAI Dashboard
+#IT Dashboard
 
-GENAI Dashboard is a tool for Automatic Generation of Visualizations and Infographics with LLM.
+IT Dashboard is a tool for Automatic Generation of Visualizations and Infographics with LLM.
 ## 🎯 Features
 - Preprocessing applications data
 - Data Summarization
