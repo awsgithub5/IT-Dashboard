@@ -1,0 +1,3 @@
+KPI_Text
+create a horizontal bar chart to analyze the top network traffic patterns based on different TCP flags
+Generate a pie chart to visualize the distribution of network traffic across Suspicious Normal and Unknown classes display the legend below the chart Ensure that the height and width of the graph are equal
