@@ -1,9 +1,9 @@
 
 
 
-# PartsOps Dashboard
+#Dashboard
 
-PartsOps Dashboard is a tool for Automatic Generation of Visualizations and Infographics with LLM.
+Dashboard is a tool for Automatic Generation of Visualizations and Infographics with LLM.
 ## 🎯 Features
 - Preprocessing applications data
 - Data Summarization
