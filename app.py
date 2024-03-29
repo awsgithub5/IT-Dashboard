@@ -63,7 +63,7 @@ def run():
     if st.session_state.get('submit_pressed') and tenant_name_selection.get('path'):
         if tenant_name_selection['path'].endswith('.csv'):
             input_file = tenant_name_selection['path']
-            output_file = "F://John Deere//partsopsdashboard-main//data//preprocessed//preprocessed_data.csv"
+            output_file = "data//preprocessed//preprocessed_data.csv"
             preprocess_CIDDS.preprocess_data(input_file, output_file)
             st.session_state['df'] = pd.read_csv(output_file)
         elif tenant_name_selection['path'].endswith('.json'):
